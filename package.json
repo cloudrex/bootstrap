@@ -1,0 +1,20 @@
+{
+    "name": "project",
+    "version": "1.0.0",
+    "description": "A bootstrapped project",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "keywords": [
+        "project"
+    ],
+    "author": "Atlas <cloudrex@outlook.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@atlas/automata": "^1.0.0-alpha.0",
+        "@types/node": "^10.12.18",
+        "colors": "^1.3.3",
+        "typescript": "^3.2.4"
+    }
+}
